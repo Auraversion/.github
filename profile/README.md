@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="./logo.png" width="128" height="128" alt="Aura — teal A with haptic waveform" />
+  <img src="./logo.png" width="128" height="128" alt="Oration — Aura teal A with haptic waveform" />
 </p>
 
-<h1 align="center">HapticCore</h1>
+<h1 align="center">Oration</h1>
 
 <p align="center">
   <strong>Video you can feel.</strong><br />
   We build <a href="https://auraversion.com">Aura</a> — haptic trailers, Shorts, and Worlds —<br />
-  and <a href="https://hapticcore.app">HapticCore Studio</a>, the timeline that authors every tap.
+  and <a href="https://hapticcore.app">Studio</a>, the timeline that authors every tap.
 </p>
 
 <p align="center">
@@ -123,7 +123,7 @@ For film teams, advertisers, and platform staff.
 <summary><strong>Legal & contact</strong></summary>
 <br />
 
-| | Aura | HapticCore |
+| | Aura | Studio |
 | :--- | :--- | :--- |
 | Privacy | [auraversion.com/privacy](https://auraversion.com/privacy) | [hapticcore.app/privacy](https://hapticcore.app/privacy) |
 | Terms | [auraversion.com/terms](https://auraversion.com/terms) | — |
@@ -144,6 +144,6 @@ For film teams, advertisers, and platform staff.
 ---
 
 <p align="center">
-  <sub>© 2026 Aura Version · HapticCore<br />
+  <sub>© 2026 Oration · Aura Version<br />
   <a href="https://auraversion.com">auraversion.com</a> · <a href="https://hapticcore.app">hapticcore.app</a></sub>
 </p>
