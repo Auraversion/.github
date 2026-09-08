@@ -144,6 +144,7 @@ For film teams, advertisers, and platform staff.
 ---
 
 <p align="center">
-  <sub>© 2026 Oration · Aura Version<br />
+  <sub>© 2026 TECHPOD AI DATASERVICE PRIVATE LIMITED<br />
+  Aura is owned and operated by TECHPOD AI DATASERVICE PRIVATE LIMITED.<br />
   <a href="https://auraversion.com">auraversion.com</a> · <a href="https://hapticcore.app">hapticcore.app</a></sub>
 </p>
