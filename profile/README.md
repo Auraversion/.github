@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./logo.png" width="128" height="128" alt="Oration — Aura teal A with haptic waveform" />
+  <img src="./logo.png" width="128" height="128" alt="Aura Version — teal A with haptic waveform" />
 </p>
 
-<h1 align="center">Oration</h1>
+<h1 align="center">Aura Version</h1>
 
 <p align="center">
   <strong>Video you can feel.</strong><br />
@@ -138,8 +138,8 @@ For film teams, advertisers, and platform staff.
 
 | Repo | Role |
 | :--- | :--- |
-| [hapticcore-studio](https://github.com/hapticcore/hapticcore-studio) | Aura + Studio monorepo (apps, SDKs, microservices) |
-| [studio-deps](https://github.com/hapticcore/studio-deps) | Public Studio runtime components (FFmpeg, FFprobe, ML sidecar) |
+| [hapticcore-studio](https://github.com/Auraversion/hapticcore-studio) | Aura + Studio monorepo (apps, SDKs, microservices) |
+| [studio-deps](https://github.com/Auraversion/studio-deps) | Public Studio runtime components (FFmpeg, FFprobe, ML sidecar) |
 
 ---
 
